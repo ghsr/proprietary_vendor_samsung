@@ -38,8 +38,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/s2vep/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/samsung/s2vep/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/samsung/s2vep/proprietary/etc/camera_info.ini:system/etc/camera_info.ini \
-	vendor/samsung/s2vep/proprietary/etc/DiamondVoice.txt:system/etc/DiamondVoice.txt \
-	vendor/samsung/s2vep/proprietary/etc/DiamondVoice_Filter.txt:system/etc/DiamondVoice_Filter.txt \
+	vendor/samsung/s2vep/proprietary/etc/DiamondVoice_NB.txt:system/etc/DiamondVoice_NB.txt \
+	vendor/samsung/s2vep/proprietary/etc/DiamondVoice_WB.txt:system/etc/DiamondVoice_WB.txt \
+	vendor/samsung/s2vep/proprietary/etc/DiamondVoice_Filter_NB.txt:system/etc/DiamondVoice_Filter_NB.txt \
+	vendor/samsung/s2vep/proprietary/etc/DiamondVoice_Filter_WB.txt:system/etc/DiamondVoice_Filter_WB.txt \
     vendor/samsung/s2vep/proprietary/etc/gps/glconfig.xml:system/etc/gps/glconfig.xml \
     vendor/samsung/s2vep/proprietary/etc/gps.conf:system/etc/gps.conf \
 	vendor/samsung/s2vep/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
@@ -47,8 +49,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/s2vep/proprietary/etc/sensors.conf:system/etc/sensors.conf \
     vendor/samsung/s2vep/proprietary/etc/srm.bin:system/etc/srm.bin \
     vendor/samsung/s2vep/proprietary/etc/Volume.db:system/etc/Volume.db \
-    vendor/samsung/s2vep/proprietary/etc/wifi/bcmdhd_apsta.bin_b2:system/etc/wifi/bcmdhd_apsta.bin_b2 \
-    vendor/samsung/s2vep/proprietary/etc/wifi/bcmdhd_sta.bin_b2:system/etc/wifi/bcmdhd_sta.bin_b2 \
+    vendor/samsung/s2vep/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
+    vendor/samsung/s2vep/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/s2vep/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/s2vep/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/s2vep/proprietary/lib/hw/alsa.default.so:system/lib/hw/alsa.default.so \
@@ -59,7 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/s2vep/proprietary/lib/hw/sensors.capri.so:system/lib/hw/sensors.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/libasound.so:system/lib/libasound.so \
 	vendor/samsung/s2vep/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
-	vendor/samsung/s2vep/proprietary/lib/llib_Samsung_SB_AM_for_ICS_v03007.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03007.so \
+	vendor/samsung/s2vep/proprietary/lib/llib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so \
 	vendor/samsung/s2vep/proprietary/lib/lib_SamsungRec_V01006.so:system/lib/lib_SamsungRec_V01006.so \
 	vendor/samsung/s2vep/proprietary/lib/lib_SoundAlive_for_ICS_V01013a.so:system/lib/lib_SoundAlive_for_ICS_V01013a.so \
     vendor/samsung/s2vep/proprietary/lib/libaacdecoderwrapper.so:system/lib/libaacdecoderwrapper.so \
@@ -90,14 +92,14 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libHDCPKeyManager.so:system/lib/libHDCPKeyManager.so \
     vendor/samsung/s2vep/proprietary/lib/libhdmiaudio.so:system/lib/libhdmiaudio.so \
 	vendor/samsung/s2vep/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
-	vendor/samsung/s2vep/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
-	vendor/samsung/s2vep/proprietary/lib/libmllite.so:system/lib/libmllite.so \
-	vendor/samsung/s2vep/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
+	#vendor/samsung/s2vep/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
+	#vendor/samsung/s2vep/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+	#vendor/samsung/s2vep/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
     vendor/samsung/s2vep/proprietary/lib/libmmal.so:system/lib/libmmal.so \
 	vendor/samsung/s2vep/proprietary/lib/libmmal_components.so:system/lib/libmmal_components.so \
     vendor/samsung/s2vep/proprietary/lib/libmmal_util.so:system/lib/libmmal_util.so \
     vendor/samsung/s2vep/proprietary/lib/libmmal_vc.so:system/lib/libmmal_vc.so \
-    vendor/samsung/s2vep/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
+    #vendor/samsung/s2vep/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.aac.decoder.so:system/lib/libOMX.brcm.audio.aac.decoder.so \
     vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.aac.encoder.so:system/lib/libOMX.brcm.audio.aac.encoder.so \
     vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
@@ -118,7 +120,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
 	vendor/samsung/s2vep/proprietary/lib/libSoundAlive_VSP_ver312a.so:system/lib/libSoundAlive_VSP_ver312a.so \
 	vendor/samsung/s2vep/proprietary/lib/libsoundspeed.so:system/lib/libsoundspeed.so \
-	vendor/samsung/s2vep/proprietary/lib/libspyhook.so:system/lib/libspyhook.so \
+	#vendor/samsung/s2vep/proprietary/lib/libspyhook.so:system/lib/libspyhook.so \
 	vendor/samsung/s2vep/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
 	vendor/samsung/s2vep/proprietary/lib/libstagefrighthw_a.so:system/lib/libstagefrighthw_a.so \
 	vendor/samsung/s2vep/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
@@ -135,7 +137,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/s2vep/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
     vendor/samsung/s2vep/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/s2vep/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
-    vendor/samsung/s2vep/proprietary/lib/libyamaha.so:system/lib/libyamaha.so \
+    #vendor/samsung/s2vep/proprietary/lib/libyamaha.so:system/lib/libyamaha.so \
     vendor/samsung/s2vep/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
     vendor/samsung/s2vep/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
     vendor/samsung/s2vep/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
