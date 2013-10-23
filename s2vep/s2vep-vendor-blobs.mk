@@ -93,7 +93,6 @@ PRODUCT_COPY_FILES += \
  vendor/samsung/s2vep/proprietary/etc/libnfc-brcm.conf:system/etc/libnfc-brcm.conf \
  vendor/samsung/s2vep/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
  vendor/samsung/s2vep/proprietary/etc/media_profiles.xml:system/etc/media_profiles.xml \
- vendor/samsung/s2vep/proprietary/etc/nfcee_access.xml:system/etc/nfcee_access.xml \
  vendor/samsung/s2vep/proprietary/etc/security_profile.dat:system/etc/security_profile.dat \
  vendor/samsung/s2vep/proprietary/etc/sensors.conf:system/etc/sensors.conf \
  vendor/samsung/s2vep/proprietary/etc/somxreg.conf:system/etc/somxreg.conf \
