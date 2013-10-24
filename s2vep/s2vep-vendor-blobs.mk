@@ -218,8 +218,6 @@ PRODUCT_COPY_FILES += \
  vendor/samsung/s2vep/proprietary/usr/idc/aeswipe.idc:system/usr/idc/aeswipe.idc \
  vendor/samsung/s2vep/proprietary/usr/idc/sec_touchscreen.idc:system/usr/idc/sec_touchscreen.idc \
  vendor/samsung/s2vep/proprietary/usr/keychars/bcm_keypad_v2.kcm:system/usr/keychars/bcm_keypad_v2.kcm \
- vendor/samsung/s2vep/proprietary/usr/keylayout/Vendor_04e8_Product_7021.kl:system/usr/keylayout/Vendor_04e8_Product_7021.kl \
- vendor/samsung/s2vep/proprietary/usr/keylayout/Vendor_05ac_Product_0255.kl:system/usr/keylayout/Vendor_05ac_Product_0255.kl \
  vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so:system/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so \
  vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libbcm_hp_filter.so:system/usr/lib/alsa-lib/libbcm_hp_filter.so \
  vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libbcm_test_filter.so:system/usr/lib/alsa-lib/libbcm_test_filter.so \
