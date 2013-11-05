@@ -136,11 +136,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
 	vendor/samsung/s2vep/proprietary/lib/modules/dhd.ko:system/lib/modules/dhd.ko \
 	vendor/samsung/s2vep/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
-	vendor/samsung/s2vep/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
-	vendor/samsung/s2vep/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
-	vendor/samsung/s2vep/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
-	vendor/samsung/s2vep/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
-	vendor/samsung/s2vep/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
 	vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so:system/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so \
 	vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libbcm_hp_filter.so:system/usr/lib/alsa-lib/libbcm_hp_filter.so \
 	vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libbcm_test_filter.so:system/usr/lib/alsa-lib/libbcm_test_filter.so \
