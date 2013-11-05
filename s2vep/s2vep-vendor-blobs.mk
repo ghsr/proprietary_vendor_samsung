@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/hw/alsa.default.so:system/lib/hw/alsa.default.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/audio.hdmi.capri.so:system/lib/hw/audio.hdmi.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/audio.primary.capri.so:system/lib/hw/audio.primary.capri.so \
-	vendor/samsung/s2vep/proprietary/lib/hw/audio.r_submix.default.so:system/lib/hw/audio.r_submix.default.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/audio.usb.capri.so:system/lib/hw/audio.usb.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/gps.capri.so:system/lib/hw/gps.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/sensors.capri.so:system/lib/hw/sensors.capri.so \
@@ -94,7 +93,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libmmal.so:system/lib/libmmal.so \
 	vendor/samsung/s2vep/proprietary/lib/libmmal_util.so:system/lib/libmmal_util.so \
 	vendor/samsung/s2vep/proprietary/lib/libmmal_vc.so:system/lib/libmmal_vc.so \
-	vendor/samsung/s2vep/proprietary/lib/libnbaio.so:system/lib/libnbaio.so \
 	vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.aac.decoder.so:system/lib/libOMX.brcm.audio.aac.decoder.so \
 	vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.aac.encoder.so:system/lib/libOMX.brcm.audio.aac.encoder.so \
 	vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
@@ -122,7 +120,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libstagefrighthw_a.so:system/lib/libstagefrighthw_a.so \
 	vendor/samsung/s2vep/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
 	vendor/samsung/s2vep/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
-	vendor/samsung/s2vep/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
 	vendor/samsung/s2vep/proprietary/lib/libtvservice_binder.so:system/lib/libtvservice_binder.so \
 	vendor/samsung/s2vep/proprietary/lib/libtvservice.so:system/lib/libtvservice.so \
 	vendor/samsung/s2vep/proprietary/lib/libuecodec.so:system/lib/libuecodec.so \
