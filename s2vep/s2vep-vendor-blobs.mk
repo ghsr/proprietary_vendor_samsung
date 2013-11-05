@@ -16,13 +16,11 @@
 
 PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/bin/at_distributor:system/bin/at_distributor \
-	vendor/samsung/s2vep/proprietary/bin/atrace:system/bin/atrace \
 	vendor/samsung/s2vep/proprietary/bin/atx:system/bin/atx \
 	vendor/samsung/s2vep/proprietary/bin/atxd:system/bin/atxd \
 	vendor/samsung/s2vep/proprietary/bin/BCM4330B1_002.001.003.0876.0996.hcd:system/bin/BCM4330B1_002.001.003.0876.0996.hcd \
 	vendor/samsung/s2vep/proprietary/bin/bkmgrd:system/bin/bkmgrd \
 	vendor/samsung/s2vep/proprietary/bin/cate_rpc_util:system/bin/cate_rpc_util \
-	vendor/samsung/s2vep/proprietary/bin/emma:system/bin/emma \
 	vendor/samsung/s2vep/proprietary/bin/geomagneticd:system/bin/geomagneticd \
 	vendor/samsung/s2vep/proprietary/bin/glgps:system/bin/glgps \
 	vendor/samsung/s2vep/proprietary/bin/gps.cer:system/bin/gps.cer \
@@ -140,8 +138,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libbcm_hp_filter.so:system/usr/lib/alsa-lib/libbcm_hp_filter.so \
 	vendor/samsung/s2vep/proprietary/usr/lib/alsa-lib/libbcm_test_filter.so:system/usr/lib/alsa-lib/libbcm_test_filter.so \
 	vendor/samsung/s2vep/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
-	vendor/samsung/s2vep/proprietary/vendor/firmware/bcm2079xB4_firmware_20793.ncd:system/vendor/firmware/bcm2079xB4_firmware_20793.ncd \
-	vendor/samsung/s2vep/proprietary/vendor/firmware/bcm2079xB4_pre_firmware_20793.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware_20793.ncd \
 	vendor/samsung/s2vep/proprietary/vendor/lib/egl/libGLES_vc4.so:system/vendor/lib/egl/libGLES_vc4.so \
 	vendor/samsung/s2vep/proprietary/vendor/lib/hw/camera.capri.so:system/vendor/lib/hw/camera.capri.so \
 	vendor/samsung/s2vep/proprietary/vendor/lib/hw/gralloc.capri.so:system/vendor/lib/hw/gralloc.capri.so \
