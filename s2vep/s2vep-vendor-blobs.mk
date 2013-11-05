@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/hw/alsa.default.so:system/lib/hw/alsa.default.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/audio.hdmi.capri.so:system/lib/hw/audio.hdmi.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/audio.primary.capri.so:system/lib/hw/audio.primary.capri.so \
+	vendor/samsung/s2vep/proprietary/lib/hw/audio.r_submix.default.so:system/lib/hw/audio.r_submix.default.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/audio.usb.capri.so:system/lib/hw/audio.usb.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/gps.capri.so:system/lib/hw/gps.capri.so \
 	vendor/samsung/s2vep/proprietary/lib/hw/sensors.capri.so:system/lib/hw/sensors.capri.so \
@@ -93,6 +94,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libmmal.so:system/lib/libmmal.so \
 	vendor/samsung/s2vep/proprietary/lib/libmmal_util.so:system/lib/libmmal_util.so \
 	vendor/samsung/s2vep/proprietary/lib/libmmal_vc.so:system/lib/libmmal_vc.so \
+	vendor/samsung/s2vep/proprietary/lib/libnbaio.so:system/lib/libnbaio.so \
 	vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.aac.decoder.so:system/lib/libOMX.brcm.audio.aac.decoder.so \
 	vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.aac.encoder.so:system/lib/libOMX.brcm.audio.aac.encoder.so \
 	vendor/samsung/s2vep/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
@@ -107,9 +109,11 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
 	vendor/samsung/s2vep/proprietary/lib/lib_SamsungRec_V01006.so:system/lib/lib_SamsungRec_V01006.so \
 	vendor/samsung/s2vep/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
+	vendor/samsung/s2vep/proprietary/lib/lib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so \
 	vendor/samsung/s2vep/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
 	vendor/samsung/s2vep/proprietary/lib/libseckeyprov.so:system/lib/libseckeyprov.so \
 	vendor/samsung/s2vep/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+	vendor/samsung/s2vep/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
 	vendor/samsung/s2vep/proprietary/lib/libsmct.so:system/lib/libsmct.so \
 	vendor/samsung/s2vep/proprietary/lib/libsoc.so:system/lib/libsoc.so \
 	vendor/samsung/s2vep/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
@@ -118,6 +122,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libstagefrighthw_a.so:system/lib/libstagefrighthw_a.so \
 	vendor/samsung/s2vep/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
 	vendor/samsung/s2vep/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
+	vendor/samsung/s2vep/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
 	vendor/samsung/s2vep/proprietary/lib/libtvservice_binder.so:system/lib/libtvservice_binder.so \
 	vendor/samsung/s2vep/proprietary/lib/libtvservice.so:system/lib/libtvservice.so \
 	vendor/samsung/s2vep/proprietary/lib/libuecodec.so:system/lib/libuecodec.so \
@@ -132,6 +137,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s2vep/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
 	vendor/samsung/s2vep/proprietary/lib/libwvm.so:system/lib/libwvm.so \
 	vendor/samsung/s2vep/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
+	vendor/samsung/s2vep/proprietary/lib/modules/dhd.ko:system/lib/modules/dhd.ko \
 	vendor/samsung/s2vep/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
 	vendor/samsung/s2vep/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
 	vendor/samsung/s2vep/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
