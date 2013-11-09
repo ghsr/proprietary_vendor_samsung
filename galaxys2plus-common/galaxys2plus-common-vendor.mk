@@ -27,6 +27,6 @@
 #    packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:/system/etc/permissions/android.software.live_wallpaper.xml
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS := vendor/samsung/s2vep/overlay
+DEVICE_PACKAGE_OVERLAYS := vendor/samsung/galaxys2plus-common/overlay
 
 $(call inherit-product, vendor/samsung/galaxys2plus-common/galaxys2plus-common-vendor-blobs.mk)
