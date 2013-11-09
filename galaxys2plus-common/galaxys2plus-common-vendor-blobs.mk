@@ -134,6 +134,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/galaxys2plus-common/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
 	vendor/samsung/galaxys2plus-common/proprietary/lib/modules/dhd.ko:system/lib/modules/dhd.ko \
 	vendor/samsung/galaxys2plus-common/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
+	vendor/samsung/galaxys2plus-common/proprietary/usr/idc/sec_touchscreen.idc:system/usr/idc/sec_touchscreen.idc \
 	vendor/samsung/galaxys2plus-common/proprietary/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so:system/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so \
 	vendor/samsung/galaxys2plus-common/proprietary/usr/lib/alsa-lib/libbcm_hp_filter.so:system/usr/lib/alsa-lib/libbcm_hp_filter.so \
 	vendor/samsung/galaxys2plus-common/proprietary/usr/lib/alsa-lib/libbcm_test_filter.so:system/usr/lib/alsa-lib/libbcm_test_filter.so \
