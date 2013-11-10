@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/galaxys2plus-common/proprietary/bin/vcdbg:system/bin/vcdbg \
 	vendor/samsung/galaxys2plus-common/proprietary/bin/vclmk:system/bin/vclmk \
 	vendor/samsung/galaxys2plus-common/proprietary/bin/vcos-version:system/bin/vcos-version \
+	vendor/samsung/galaxys2plus-common/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/asound.conf:system/etc/asound.conf \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/camera_info.ini:system/etc/camera_info.ini \
@@ -46,6 +47,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/media_profiles.xml:system/etc/media_profiles.xml \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/sensors.conf:system/etc/sensors.conf \
+	vendor/samsung/galaxys2plus-common/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/srm.bin:system/etc/srm.bin \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/Volume.db:system/etc/Volume.db \
 	vendor/samsung/galaxys2plus-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
