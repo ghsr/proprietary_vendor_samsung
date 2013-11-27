@@ -39,8 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/baffin/proprietary/etc/camera_info.ini:system/etc/camera_info.ini \
     vendor/samsung/baffin/proprietary/etc/DiamondVoice_Filter_NB.txt:system/etc/DiamondVoice_Filter_NB.txt \
     vendor/samsung/baffin/proprietary/etc/DiamondVoice_Filter_WB.txt:system/etc/DiamondVoice_Filter_WB.txt \
-    vendor/samsung/baffin/proprietary/etc/DiamondVoice_Filter_NB.txt:system/etc/DiamondVoice_NB.txt \
-    vendor/samsung/baffin/proprietary/etc/DiamondVoice_Filter_WB.txt:system/etc/DiamondVoice_WB.txt \
+    vendor/samsung/baffin/proprietary/etc/DiamondVoice_NB.txt:system/etc/DiamondVoice_NB.txt \
+    vendor/samsung/baffin/proprietary/etc/DiamondVoice_WB.txt:system/etc/DiamondVoice_WB.txt \
     vendor/samsung/baffin/proprietary/etc/gps/glconfig.xml:system/etc/gps/glconfig.xml \
     vendor/samsung/baffin/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/samsung/baffin/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
