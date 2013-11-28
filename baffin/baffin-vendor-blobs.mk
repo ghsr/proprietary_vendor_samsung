@@ -143,4 +143,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/baffin/proprietary/vendor/lib/hw/gralloc.capri.so:system/vendor/lib/hw/gralloc.capri.so \
     vendor/samsung/baffin/proprietary/vendor/lib/hw/hwcomposer.capri.so:system/vendor/lib/hw/hwcomposer.capri.so \
     vendor/samsung/baffin/proprietary/vendor/lib/hw/lights.capri.so:system/vendor/lib/hw/lights.capri.so \
-    vendor/samsung/baffin/proprietary/vendor/lib/hw/power.capri.so:system/vendor/lib/hw/power.capri.so
+    vendor/samsung/baffin/proprietary/vendor/lib/hw/power.capri.so:system/vendor/lib/hw/power.capri.so \
+    vendor/samsung/baffin/proprietary/bin/emma:system/bin/emma \
+    vendor/samsung/baffin/proprietary/bin/geomagneticd:system/bin/geomagneticd \
+    vendor/samsung/baffin/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
+    vendor/samsung/baffin/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
+    vendor/samsung/baffin/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/baffin/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
+    vendor/samsung/baffin/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
+    vendor/samsung/baffin/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
+    vendor/samsung/baffin/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
+    vendor/samsung/baffin/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so
