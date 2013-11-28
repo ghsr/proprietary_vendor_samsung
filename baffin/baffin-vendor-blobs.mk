@@ -153,4 +153,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/baffin/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
     vendor/samsung/baffin/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
     vendor/samsung/baffin/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
-    vendor/samsung/baffin/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so
+    vendor/samsung/baffin/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
+    vendor/samsung/baffin/proprietary/etc/DiamondVoice_SF_Filter_NB.txt:system/etc/DiamondVoice_SF_Filter_NB.txt \
+    vendor/samsung/baffin/proprietary/etc/DiamondVoice_SF_Filter_WB.txt:system/etc/DiamondVoice_SF_Filter_WB.txt
