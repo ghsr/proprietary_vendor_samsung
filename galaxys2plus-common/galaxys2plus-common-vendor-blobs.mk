@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/bin/at_distributor:system/bin/at_distributor \
-    vendor/samsung/galaxys2plus-common/proprietary/bin/atrace:system/bin/atrace \
     vendor/samsung/galaxys2plus-common/proprietary/bin/atx:system/bin/atx \
     vendor/samsung/galaxys2plus-common/proprietary/bin/atxd:system/bin/atxd \
     vendor/samsung/galaxys2plus-common/proprietary/bin/BCM4330B1_002.001.003.0876.0996.hcd:system/bin/BCM4330B1_002.001.003.0876.0996.hcd \
