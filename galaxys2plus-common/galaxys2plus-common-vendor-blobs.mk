@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/bin/BCM4330B1_002.001.003.0876.0996.hcd:system/bin/BCM4330B1_002.001.003.0876.0996.hcd \
     vendor/samsung/galaxys2plus-common/proprietary/bin/bkmgrd:system/bin/bkmgrd \
     vendor/samsung/galaxys2plus-common/proprietary/bin/cate_rpc_util:system/bin/cate_rpc_util \
-    vendor/samsung/galaxys2plus-common/proprietary/bin/emma:system/bin/emma \
     vendor/samsung/galaxys2plus-common/proprietary/bin/geomagneticd:system/bin/geomagneticd \
     vendor/samsung/galaxys2plus-common/proprietary/bin/glgps:system/bin/glgps \
     vendor/samsung/galaxys2plus-common/proprietary/bin/gps.cer:system/bin/gps.cer \
