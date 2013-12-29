@@ -61,7 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/lib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/lib_SamsungRec_V01006.so:system/lib/lib_SamsungRec_V01006.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/lib_SoundAlive_V01013n.so:system/lib/lib_SoundAlive_V01013n.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libaacdecoderwrapper.so:system/lib/libaacdecoderwrapper.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libat.so:system/lib/libat.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libat_stubs.so:system/lib/libat_stubs.so \
