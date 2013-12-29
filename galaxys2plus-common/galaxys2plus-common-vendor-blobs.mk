@@ -83,7 +83,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libcapi2.so:system/lib/libcapi2.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libcate_rpc.so:system/lib/libcate_rpc.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libcontainers.so:system/lib/libcontainers.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libdebug_sym.so:system/lib/libdebug_sym.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libdispmanx.so:system/lib/libdispmanx.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libhdcp.so:system/lib/libhdcp.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
