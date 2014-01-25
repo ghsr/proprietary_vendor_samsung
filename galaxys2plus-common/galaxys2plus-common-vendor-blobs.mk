@@ -61,22 +61,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/lib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/lib_SamsungRec_V01006.so:system/lib/lib_SamsungRec_V01006.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libaacdecoderwrapper.so:system/lib/libaacdecoderwrapper.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libat.so:system/lib/libat.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libat_stubs.so:system/lib/libat_stubs.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libatlog.so:system/lib/libatlog.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcm_ril.so:system/lib/libbrcm_ril.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmaacenc.so:system/lib/libbrcmaacenc.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmamrnbaridec.so:system/lib/libbrcmamrnbaridec.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmamrnbarienc.so:system/lib/libbrcmamrnbarienc.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmamrwbaridec.so:system/lib/libbrcmamrwbaridec.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmamrwbarienc.so:system/lib/libbrcmamrwbarienc.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmcutils.so:system/lib/libbrcmcutils.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmheaacdecoder.so:system/lib/libbrcmheaacdecoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmmp3dec.so:system/lib/libbrcmmp3dec.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmmp3enc.so:system/lib/libbrcmmp3enc.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libBrcmOMX_Component.so:system/lib/libBrcmOMX_Component.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libBrcmOMX_Core.so:system/lib/libBrcmOMX_Core.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libbrcmparser.so:system/lib/libbrcmparser.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libbufmgmt.so:system/lib/libbufmgmt.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libbufpool.so:system/lib/libbufpool.so \
@@ -93,14 +82,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libmmal_components.so:system/lib/libmmal_components.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libmmal_util.so:system/lib/libmmal_util.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libmmal_vc.so:system/lib/libmmal_vc.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.aac.decoder.so:system/lib/libOMX.brcm.audio.aac.decoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.aac.encoder.so:system/lib/libOMX.brcm.audio.aac.encoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.amrnb.encoder.so:system/lib/libOMX.brcm.audio.amrnb.encoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.amrwb.decoder.so:system/lib/libOMX.brcm.audio.amrwb.decoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.amrwb.encoder.so:system/lib/libOMX.brcm.audio.amrwb.encoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.mp3.decoder.so:system/lib/libOMX.brcm.audio.mp3.decoder.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libOMX.brcm.audio.mp3.encoder.so:system/lib/libOMX.brcm.audio.mp3.encoder.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libomxmmal.so:system/lib/libomxmmal.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/librpc.so:system/lib/librpc.so \
@@ -115,7 +96,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libSoundAlive_VSP_ver312a.so:system/lib/libSoundAlive_VSP_ver312a.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libsoundspeed.so:system/lib/libsoundspeed.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libstagefrighthw_a.so:system/lib/libstagefrighthw_a.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libtvservice.so:system/lib/libtvservice.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libtvservice_binder.so:system/lib/libtvservice_binder.so \
