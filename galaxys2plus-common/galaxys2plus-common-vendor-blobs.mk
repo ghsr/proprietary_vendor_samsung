@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libSoundAlive_VSP_ver312a.so:system/lib/libSoundAlive_VSP_ver312a.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libsoundspeed.so:system/lib/libsoundspeed.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libtvservice.so:system/lib/libtvservice.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libtvservice_binder.so:system/lib/libtvservice_binder.so \
