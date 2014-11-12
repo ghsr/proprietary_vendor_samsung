@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/bin/glgps:system/bin/glgps \
     vendor/samsung/galaxys2plus-common/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/galaxys2plus-common/proprietary/bin/gpslogd:system/bin/gpslogd \
-    vendor/samsung/galaxys2plus-common/proprietary/bin/immvibed:system/bin/immvibed \
     vendor/samsung/galaxys2plus-common/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/galaxys2plus-common/proprietary/bin/mttlogger:system/bin/mttlogger \
     vendor/samsung/galaxys2plus-common/proprietary/bin/npsmobex:system/bin/npsmobex \
@@ -77,7 +76,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libHDCPKeyManager.so:system/lib/libHDCPKeyManager.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libhdmiaudio.so:system/lib/libhdmiaudio.so \
-    vendor/samsung/galaxys2plus-common/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libmmal.so:system/lib/libmmal.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libmmal_components.so:system/lib/libmmal_components.so \
     vendor/samsung/galaxys2plus-common/proprietary/lib/libmmal_util.so:system/lib/libmmal_util.so \
