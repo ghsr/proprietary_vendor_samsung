@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/crater/proprietary/bin/vclmk:system/bin/vclmk \
     vendor/samsung/crater/proprietary/bin/vcos-version:system/bin/vcos-version \
     vendor/samsung/crater/proprietary/etc/asound.conf:system/etc/asound.conf \
-    vendor/samsung/crater/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/samsung/crater/proprietary/etc/camera_info.ini:system/etc/camera_info.ini \
     vendor/samsung/crater/proprietary/etc/DiamondVoice_Filter_NB.txt:system/etc/DiamondVoice_Filter_NB.txt \
     vendor/samsung/crater/proprietary/etc/DiamondVoice_Filter_WB.txt:system/etc/DiamondVoice_Filter_WB.txt \
