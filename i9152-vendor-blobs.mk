@@ -111,7 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/lib/libVCOS.so:system/lib/libVCOS.so \
     vendor/samsung/i9152/proprietary/lib/libvcsm.so:system/lib/libvcsm.so \
     vendor/samsung/i9152/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
-    vendor/samsung/i9152/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/i9152/proprietary/lib/libWFC.so:system/lib/libWFC.so \
     vendor/samsung/i9152/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
     vendor/samsung/i9152/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
