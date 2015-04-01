@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/etc/srm.bin:system/etc/srm.bin \
     vendor/samsung/i9152/proprietary/etc/Volume.db:system/etc/Volume.db \
     vendor/samsung/i9152/proprietary/etc/wifi/bcmdhd_apsta.bin_b2:system/etc/wifi/bcmdhd_apsta.bin_b2 \
+    vendor/samsung/i9152/proprietary/etc/wifi/bcmdhd_p2p.bin_b2:system/etc/wifi/bcmdhd_p2p.bin_b2 \
     vendor/samsung/i9152/proprietary/etc/wifi/bcmdhd_sta.bin_b2:system/etc/wifi/bcmdhd_sta.bin_b2 \
     vendor/samsung/i9152/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/i9152/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
