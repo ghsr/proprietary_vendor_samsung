@@ -110,9 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/lib/libvcos.so:system/lib/libvcos.so \
     vendor/samsung/i9152/proprietary/lib/libVCOS.so:system/lib/libVCOS.so \
     vendor/samsung/i9152/proprietary/lib/libvcsm.so:system/lib/libvcsm.so \
-    vendor/samsung/i9152/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
     vendor/samsung/i9152/proprietary/lib/libWFC.so:system/lib/libWFC.so \
-    vendor/samsung/i9152/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
     vendor/samsung/i9152/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
     vendor/samsung/i9152/proprietary/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so:system/usr/lib/alsa-lib/libasound_module_pcm_bcmfilter.so \
     vendor/samsung/i9152/proprietary/usr/lib/alsa-lib/libbcm_hp_filter.so:system/usr/lib/alsa-lib/libbcm_hp_filter.so \
@@ -126,5 +124,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/vendor/lib/hw/camera.capri.so:system/vendor/lib/hw/camera.capri.so \
     vendor/samsung/i9152/proprietary/vendor/lib/hw/gralloc.capri.so:system/vendor/lib/hw/gralloc.capri.so \
     vendor/samsung/i9152/proprietary/vendor/lib/hw/hwcomposer.capri.so:system/vendor/lib/hw/hwcomposer.capri.so \
-    vendor/samsung/i9152/proprietary/vendor/lib/hw/power.capri.so:system/vendor/lib/hw/power.capri.so \
-    vendor/samsung/i9152/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+    vendor/samsung/i9152/proprietary/vendor/lib/hw/power.capri.so:system/vendor/lib/hw/power.capri.so
