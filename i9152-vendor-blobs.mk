@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/etc/wifi/bcmdhd_p2p.bin_b2:system/etc/wifi/bcmdhd_p2p.bin_b2 \
     vendor/samsung/i9152/proprietary/etc/wifi/bcmdhd_sta.bin_b2:system/etc/wifi/bcmdhd_sta.bin_b2 \
     vendor/samsung/i9152/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-    vendor/samsung/i9152/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/i9152/proprietary/lib/hw/alsa.default.so:system/lib/hw/alsa.default.so \
     vendor/samsung/i9152/proprietary/lib/hw/audio.hdmi.capri.so:system/lib/hw/audio.hdmi.capri.so \
     vendor/samsung/i9152/proprietary/lib/hw/audio.primary.capri.so:system/lib/hw/audio.primary.capri.so \
