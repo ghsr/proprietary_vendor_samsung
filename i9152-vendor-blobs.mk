@@ -74,7 +74,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/lib/libdebug_sym.so:system/lib/libdebug_sym.so \
     vendor/samsung/i9152/proprietary/lib/lib_DNSe_NRSS_ver224c.so:system/lib/lib_DNSe_NRSS_ver224c.so \
     vendor/samsung/i9152/proprietary/lib/libdispmanx.so:system/lib/libdispmanx.so \
-    vendor/samsung/i9152/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/i9152/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
     vendor/samsung/i9152/proprietary/lib/libHDCPKeyManager.so:system/lib/libHDCPKeyManager.so \
     vendor/samsung/i9152/proprietary/lib/libhdmiaudio.so:system/lib/libhdmiaudio.so \
@@ -122,8 +121,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9152/proprietary/vendor/lib/hw/gralloc.capri.so:system/vendor/lib/hw/gralloc.capri.so \
     vendor/samsung/i9152/proprietary/vendor/lib/hw/hwcomposer.capri.so:system/vendor/lib/hw/hwcomposer.capri.so \
     vendor/samsung/i9152/proprietary/vendor/lib/hw/lights.capri.so:system/vendor/lib/hw/lights.capri.so \
+    vendor/samsung/i9152/proprietary/vendor/lib/libdrmmtkutil.so:system/vendor/lib/libdrmmtkutil.so \
     vendor/samsung/i9152/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/samsung/i9152/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/samsung/i9152/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/samsung/i9152/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/samsung/i9152/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
